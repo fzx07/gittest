@@ -7,4 +7,7 @@ package testgithub;
  */
 public class jjjjjj {
 
+	public static void main(String[] args) {
+		
+	}
 }
